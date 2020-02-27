@@ -1,3 +1,6 @@
 <?php
-print "Hello, World! php version is " . PHP_VERSION . "\n";
+
+print "Hola mundo "\n";
+echo "<br><br><hr>";
+echo "fin del programa";
 ?>
